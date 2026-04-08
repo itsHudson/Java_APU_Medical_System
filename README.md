@@ -8,3 +8,6 @@ Oracle Java Development Kit, JDK
 Apache NetBeans, Compiler: 
 - Version: Apache NetBeans 29
 - URL: https://netbeans.apache.org/front/main/download/
+
+# Project Type: Java with Ant
+- Java Application
